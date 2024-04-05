@@ -7,6 +7,9 @@ export const metadata = {
 
 export default function HomeLayout({ children }) {
   return (
-    <></>
+    <>
+      <NavBar />
+      {children}
+    </>
   )
 }

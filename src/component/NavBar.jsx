@@ -33,7 +33,7 @@ export default function NavBar(){
                     <h5 className="">Easy Dine</h5>
                 </div>
         
-                <div className='d-flex'>
+                {/* <div className='d-flex'>
                     <div className='px-2' onClick={()=>setSerfType(0)}>
                         <span>Order Online</span>
                     </div>
@@ -43,7 +43,7 @@ export default function NavBar(){
                     <div className='px-2' onClick={()=>setSerfType(1)}>
                         <span>Dine Out</span>
                     </div>
-                </div>
+                </div> */}
     
                 <div className='d-flex gap-4'>
                     <div className='d-flex gap-1 align-items-center' style={styles.pointer}>

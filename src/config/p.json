@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Chicken Pakora",
+        "slug": "chicken-pakora",
+        "description": "Pakora is a savory, deep-fried Indian snack made with chunks of vegetables such as potato, cauliflower and eggplant, or meat of choice, which is then dipped in chickpea flour, seasoned with turmeric, salt, chili, or other spices, and deep-fried in ghee.",
+        "thumbImage": "parora.jpeg",
+        "price": 120,
+        "rating": 4.5
+    },
+    {
+        "name": "Vada Pav",
+        "slug": "vada-pav",
+        "description": "Vada Pav is a favorite sandwich-style snack from Mumbai, named after its ingredients: vada, or spicy mashed potatoes, which are deep-fried in chickpea batter; and pav, or white bread rolls. This iconic street food is said to have originated from a street vendor named Ashok Vaidya, who worked near the Dadar train station in the sixties and seventies, and came up with a way to satiate the hungry workers.",
+        "thumbImage": "vada-pav.jpeg",
+        "price": 70,
+        "rating": 3.4
+    },
+    {
+        "name": "Idli",
+        "slug": "idli",
+        "description": "Idli is a traditional, savory Indian cake that is a popular breakfast item in many South Indian households, although it can be found throughout the country. It is made with a batter consisting of fermented lentils and rice, which is then steamed. These savory cakes are commonly served hot and consumed on their own, dipped into sambar or chutneys, or seasoned with a range of spices.",
+        "thumbImage": "idli.jpeg",
+        "price": 50,
+        "rating": 3.5
+    },
+    {
+        "name": "Lachha Paratha With Egg Curry",
+        "slug": "lachha-paratha-with-egg-curry",
+        "description": "Paratha is a flaky, layered, golden-brown Indian bread, which is typically consumed for breakfast. It consists of whole wheat flour that’s baked in ghee, Indian clarified butter, and comes in round, triangular, square, or hexagonal shapes.",
+        "thumbImage": "paratha.jpeg",
+        "price": 175,
+        "rating": 4.0
+    },
+    {
+        "name": "Butter Naan",
+        "slug": "butter-naan",
+        "description": "Naan is a well-liked flatbread with a chewy texture. It consists of white flour, yeast, eggs, milk, salt, and sugar, baked in a tandoor oven. Its characteristic tear-drop shape is achieved due to the way that the dough droops as it cooks on the tandoor walls.",
+        "thumbImage": "naan.jpeg",
+        "price": 40,
+        "rating": 5.0
+    },
+    {
+        "name": "Butter Chicken",
+        "slug": "butter-chicken",
+        "description": "A dish of tender chicken in a mildly spiced tomato sauce. It’s traditionally cooked in a tandoor (a cylindrical clay oven). The gravy is always made first by boiling down fresh tomato, garlic, and cardamom into a bright red pulp. This pulp is then pureed after cooling. Butter, various spices, and khoa (dried whole milk) is then added. The dish originated in Delhi during the 1950s.",
+        "thumbImage": "butter-chicken.jpeg",
+        "price": 200,
+        "rating": 4.0
+    },
+    {
+        "name": "Dal Tadka",
+        "slug": "dal-tadka",
+        "description": "This classic lentil-based dish originates from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow peas), garlic, ginger, onions, tomatoes, garam masala, red chili peppers, ghee, cumin, coriander, turmeric, and fenugreek leaves. Once prepared, dal tadka is usually garnished with coriander leaves and served hot with jeera rice and roti on the side.",
+        "thumbImage": "dal-tadka.jpeg",
+        "price": 80,
+        "rating": 3.8
+    },
+    {
+        "name": "Dal Makhani",
+        "slug": "dal-makhani",
+        "description": "This classic lentil-based dish originates from the northern parts of India. Although there are variations, the dish is usually prepared with toor dal (split yellow peas), garlic, ginger, onions, tomatoes, garam masala, red chili peppers, ghee, cumin, coriander, turmeric, and fenugreek leaves. Once prepared, dal tadka is usually garnished with coriander leaves and served hot with jeera rice and roti on the side.",
+        "thumbImage": "dal-makhani.jpeg",
+        "price": 180,
+        "rating": 2.9
+    },
+    {
+        "name": "Chicken Biriyani",
+        "slug": "chicken-biriyani",
+        "description": "Biriyani dates back to the Mughal Empire. The main ingredients are basmati rice, spices, a base of meat, eggs, or vegetables, and many optional ingredients such as dried fruits, nuts, and yogurt. It is believed that Mumtaz Mahal – Emperor Shah Jahan’s queen for whom the Taj Mahal was built as a tomb for – inspired the dish in the 1600s.",
+        "thumbImage": "biriyani.jpeg",
+        "price": 150,
+        "rating": 5.0
+    }
+]

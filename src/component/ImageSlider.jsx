@@ -15,9 +15,9 @@ export default function ImageSlider({data, isMobile}){
     return(
         <Slider {...settings} className='container rounded mt-3'>
             {
-                data.map((element, index) => 
-                    <div key={index}>
-                        <Image src={require(`../../public/images/banner/${element.image}`)} height={isMobile ? 150 : 288} className='w-100 rounded bg-warning'/>
+                data.map((element) => 
+                    <div key={element._id}>
+                        <Image src={require(`../../public/images/banner/${element.image}`)} alt="Banner Image" height={isMobile ? 150 : 288} className='w-100 rounded bg-warning'/>
                     </div>
                 )
             }

@@ -10,7 +10,7 @@ export const metadata = {
   description: "Easy Dyne, where you can buy foods and book a table on your favorite restaurant",
 };
 
-export default function RootLayout({ children }) {
+export default async function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className} >

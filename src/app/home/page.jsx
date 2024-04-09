@@ -45,8 +45,6 @@ export default function Home({someProp}){
 
     return(
         <>
-            <p>{someProp}</p>
-            
             <ImageSlider data={banners} isMobile={isMobile} />
 
             <div className="container mt-5">
@@ -63,7 +61,7 @@ export default function Home({someProp}){
                     <h4 style={{color: '#555555'}}>Most Popular Items</h4>
                     <Link href={'#'}>Show All</Link>
                 </div>
-                <div className={`d-flex ${isMobile ? 'gap-3' : 'gap-5'}`}>
+                <div className={`d-flex ${isMobile ? 'gap-3' : 'gap-5'} overflow-auto pb-4`}>
                     {
                         popularItems.map(element => 
                             <PopularItemCard data={element} key={element._id} />                        

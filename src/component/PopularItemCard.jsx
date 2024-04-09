@@ -4,9 +4,9 @@ import { Rating } from 'react-simple-star-rating'
 export default function PopularItemCard({data}){
  return(
     <>
-        <div className="border border-warning border-1 rounded shadow" style={{width:200, minHeight:220}}>
-            <div className="">
-                <Image src={require(`../../public/images/product/${data.thumbImage}`)} alt='Item Image' className='h-auto w-100 rounded'/>
+        <div className="border border-warning border-1 rounded shadow" style={{width:200, minHeight:220,}}>
+            <div className="rounded-top overflow-hidden">
+                <Image src={require(`../../public/images/product/${data.thumbImage}`)} alt='Item Image' style={{height: 'auto', }} className='w-100'/>
             </div>
             <div className=" p-1">
                 <span>{data.name}</span>
